@@ -1,8 +1,8 @@
 # UML CONVERTER
 
 ### Team Members
-| Name | GitHub account | Email |
-| --- | --- | --- |
+| Name | GitHub account |
+| --- | --- |
 | Kokpanbayev Beksultan | [kbeksultan](https://github.com/kbeksultan/) |
 | Alshymbaeva Rauza | [RauzaAl](https://github.com/RauzaAl) |
 | Turdaleyev Azamat Farabi | [azamatfarabi](https://github.com/azamatfarabi) |
